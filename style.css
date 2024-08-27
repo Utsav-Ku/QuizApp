@@ -4,9 +4,11 @@
     font-family: 'Poppins',sans-serif;
     box-sizing: border-box;
 }
+
 body{
     background: #001e4d;
 }
+
 .app{
     background: #fff;
     width: 90%;
